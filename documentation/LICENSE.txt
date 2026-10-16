@@ -1,0 +1,16 @@
+ROAMFORM Storefront Collection v1.0.1
+Standard single-end-product license
+
+Copyright 2026 bonvsbon. All rights reserved in the original template code and design, subject to third-party licenses.
+
+After a valid purchase, the buyer receives a non-exclusive license to access all twelve layouts in this release, modify them, and use them to create one finished website for the buyer or one client. The buyer may experiment with and combine any included layouts within that end product. A finished website may sell physical goods. An agency may transfer that finished website and the necessary source to its one client, who is bound by the same restrictions.
+
+One purchase does not permit deploying separate finished websites for multiple clients. Purchase another license for each additional end product unless the seller explicitly supplies a multi-site license.
+
+The buyer may not resell, share publicly, sublicense or redistribute this bundle or a modified version as a template, UI kit, theme, source-code product or competing downloadable asset. Included generated demo images may be used within the licensed finished website; this license does not authorize selling them as a standalone stock-image collection. Third-party code and fonts retain their own licenses and notices.
+
+ROAMFORM products, feature claims, prices and contact details are fictional examples. The bundle is frontend source code with mock commerce. No backend, payments, inventory service, hosting or guaranteed future updates are included. The buyer is responsible for their finished website's implementation and operation.
+
+If purchased through a marketplace that applies its own mandatory license, that marketplace license governs in case of conflict. Support and refund terms are those actually published by the seller or marketplace at purchase; this file does not waive any mandatory purchaser rights.
+
+This template is supplied as-is without a promise of commercial results or marketplace acceptance. To the extent allowed by applicable law, the seller is not liable for consequential losses arising from its use.

@@ -1,0 +1,1 @@
+import{u as s}from"./B8DhzrC9.js";import{e as o,o as t,c as a,Q as n}from"./DFCaDo0B.js";const r={class:"min-h-screen bg-[#f6f5f2] text-[#111]",style:{"--font-display":"'Barlow Condensed','Barlow',sans-serif","--font-body":"'Barlow',sans-serif"}},i=o({__name:"default",setup(f){return s({}),(e,l)=>(t(),a("div",r,[n(e.$slots,"default")]))}});export{i as default};
