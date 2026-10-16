@@ -44,7 +44,9 @@ Change the ROAMFORM wordmark components, favicon, titles and meta descriptions. 
 
 Catalog mapping at the end of each product data file sets the demo's signature colors, images, codes and prices. Edit that mapping or remove it and edit the records directly for a real catalog. Do not retain both an old mapping and new record values that it overrides.
 
-Prices, reviews, availability, store addresses and product benefits are fictional examples. Replace them with your own verified data. FLEXFORM is a fictional feature label, not a certified technology.
+Prices, reviews, availability, store addresses and product benefits are fictional examples. Replace them with your own verified data. DEMO FOAM is a descriptive demo material label. All specifications, comparisons and reviews are illustrative, not certified technology or laboratory results.
+
+Development used Claude Code and Codex; demo photos are AI-generated.
 
 ## Language and regional settings
 
@@ -64,4 +66,4 @@ If styles or fonts are missing, confirm you installed dependencies in the correc
 
 ## License and support
 
-Read `LICENSE.txt` and `THIRD-PARTY-NOTICES.md`. Your marketplace purchase terms may take precedence. The included release is v1.0.1. No lifetime updates, hosting or custom integration services are included. Ask the seller through the purchase channel for reproducible template bugs and installation questions; the seller's published support/refund policy governs that service.
+Read `LICENSE.txt` and `THIRD-PARTY-NOTICES.md`. Your marketplace purchase terms may take precedence. The included release is v1.0.2. No lifetime updates, hosting or custom integration services are included. Ask the seller through the purchase channel for reproducible template bugs and installation questions; the seller's published support/refund policy governs that service.

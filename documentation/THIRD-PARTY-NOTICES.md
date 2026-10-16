@@ -7,3 +7,5 @@ Bundled fonts: Barlow, Barlow Condensed and Noto Sans Thai, SIL Open Font Licens
 The source uses Nuxt, Vue, Vue Router, Pinia, Tailwind CSS and, in selected projects, Lucide Vue icons. These remain subject to their respective open-source licenses. Dependency versions are recorded in each project's package-lock.json. License texts collected from installed dependency packages are in `dependency-licenses.txt`. Installed node_modules are not included in the downloadable source package.
 
 The seller is responsible for its marketplace's disclosure and listing requirements, and for verifying rights to any assets added after this release.
+
+Development used Claude Code and Codex. Demo photos were generated with ImageGen. The seller does not represent that all code was written by hand or that AI-generated elements have exclusive copyright protection in every jurisdiction. DEMO FOAM is a descriptive sample material label, not a certified technology or a claim of product performance.

@@ -1,4 +1,4 @@
-ROAMFORM Storefront Collection v1.0.1
+ROAMFORM Storefront Collection v1.0.2
 Standard single-end-product license
 
 Copyright 2026 bonvsbon. All rights reserved in the original template code and design, subject to third-party licenses.
@@ -14,3 +14,5 @@ ROAMFORM products, feature claims, prices and contact details are fictional exam
 If purchased through a marketplace that applies its own mandatory license, that marketplace license governs in case of conflict. Support and refund terms are those actually published by the seller or marketplace at purchase; this file does not waive any mandatory purchaser rights.
 
 This template is supplied as-is without a promise of commercial results or marketplace acceptance. To the extent allowed by applicable law, the seller is not liable for consequential losses arising from its use.
+
+AI tools were used in development and demo media creation. The license grants only rights the seller can lawfully grant; it does not promise exclusive copyright in all AI-generated elements. Third-party software and fonts retain their applicable licenses.

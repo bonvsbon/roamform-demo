@@ -1,3 +1,10 @@
+# v1.0.2
+
+- Replaced the former sample cushioning label with descriptive DEMO FOAM terminology.
+- Migrated legacy product routes and references to independent demo identifiers.
+- Clarified AI-assisted development, generated media and sample performance content.
+- Refreshed compiled previews and marketplace assets.
+
 # Changelog
 
 ## 1.0.1 / 15 October 2026
